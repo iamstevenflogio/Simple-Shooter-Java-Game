@@ -8,4 +8,6 @@ Done for solo school project, to learn Object-Oriented and Event-Driven Programm
 I tried to create different varieties of enemies with my Java skills at the time,
 so I created (1) an entity that follows the player around, while the others just bounce around at different speeds.
 
+'Event-Driven' concepts was applied in this project through manipulation of elements that are triggered through 'Events' from the checkboxes.
+
 Youtube demo link: https://www.youtube.com/watch?v=4L2WeqPEzSA
