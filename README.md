@@ -1,4 +1,6 @@
 # Simple-Shooter-Java-Game
+Lost the code for this one. Would do it again if needed haha
+
 Simple Shooter Java Game with simple Physics
 
 Created my own mini game engine, to play with graphics using purely Java.
